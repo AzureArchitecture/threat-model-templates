@@ -1,6 +1,9 @@
 
 # Azure Template - Microsoft Security Threat Model Stencil #
 https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling
+
+![](https://i.imgur.com/M6o7wJT.png)
+
 ## Release Notes ##
 
 **Release 4 (2019-12-28)**
