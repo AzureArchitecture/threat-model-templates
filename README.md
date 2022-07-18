@@ -8,7 +8,7 @@ https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling
 
 **Sample Release (2022-07-17)**
 
-**Added Sample** - [Azure Data & Analytics Platform](https://github.com/AzureArchitecture/threat-model-templates/Samples) 
+**Added Sample** - [Azure Data & Analytics Platform](https://github.com/AzureArchitecture/threat-model-templates/tree/master/Samples) 
 
 **Pre-Release 5 (2022-03-30)**
 
