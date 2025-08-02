@@ -6,6 +6,56 @@ https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling
 
 ## Release Notes ##
 
+**Release 6 (2022-03-30)**
+
+Added the following Stencils
+
+**Azure Asset**
+- Microsoft Entra ID
+
+**Azure Service**
+- Microsoft Sentinel
+
+**AWS Data**
+- AWS Aurora
+- AWS DocumentDB
+- AWS DynamoDB
+- AWS Neptune
+- AWS RDS
+- AWS Redshift
+- AWS Timestream
+- MariaDB in AWS
+- MySQL in AWS
+- Oracle in AWS
+- PostgreSQL in AWS
+- Snowflake in AWS
+- SQL Server in AWS
+- SQL Server VM in AWS
+
+**AWS Boundary**
+- Amazon Cloud Boundary
+- AWS Region
+- AWS Security Group
+- AWS VPC
+
+**Interactor**
+- Administrator
+- Attacker
+- External Service
+- System Process
+- User
+
+**Cloud SaaS Services**
+- Box
+- Dropbox
+- Google Drive
+- Microsoft 365
+- OneDrive
+- Power BI Platform
+- Power Automate
+- SharePoint
+- X Twitter
+
 **Sample Release (2022-07-17)**
 
 **Added Sample** - [Azure Data & Analytics Platform](https://github.com/AzureArchitecture/threat-model-templates/tree/master/Samples) 
