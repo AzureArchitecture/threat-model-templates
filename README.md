@@ -6,7 +6,7 @@ https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling
 
 ## Release Notes ##
 
-**Release 6 (2022-03-30)**
+**Release 6 (2025-08-01)**
 
 Added the following Stencils
 
