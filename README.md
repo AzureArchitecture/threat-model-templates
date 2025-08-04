@@ -1,10 +1,43 @@
 
-# Azure Template - Microsoft Security Threat Model Stencil #
+# Microsoft Template - Microsoft Security Threat Model Stencil #
 https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling
 
 ![](https://i.imgur.com/M6o7wJT.png)
 
 ## Release Notes ##
+**Release 7 (2025-08-04)**
+This is the first version of the new Microsoft Template (MicrosoftTemplate.v1.tb7). This includes the last Azure template version 7 (AzureTemplate.v7.tb7) with the following stencil additions:
+
+**Microsoft Entra**
+- Microsoft Entra ID
+- Microsoft Entra ID Governance
+
+**Microsoft Security Boundary**
+- Microsoft Entra Boundary
+- Microsoft Fabric Boundary
+
+**Microsoft Fabric**
+- Microsoft Fabric Tenant
+- Microsoft Fabric Workspace
+
+**Microsoft Fabric Compute**
+- Microsoft Fabric Data Agent
+- Microsoft Fabric Data Factory
+- Microsoft Fabric Mirroring
+- Microsoft Fabric Power BI
+- Microsoft Fabric Realtime Hub
+
+**Microsoft Fabric Data**
+- KQL Database
+- Microsoft Fabric Cosmos DB
+- Microsoft Fabric Eventhouse
+- Microsoft Fabric Lakehouse
+- Microsoft Fabric OneLake
+- Microsoft Fabric SQL Database
+- Microsoft Fabric Warehouse
+- Power BI Direct Lake
+
+**Legacy Azure templates have been moved to the Archive folder**
 
 **Release 6 (2025-08-01)**
 
